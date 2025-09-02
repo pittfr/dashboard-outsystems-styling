@@ -937,6 +937,7 @@ body.info-expanded .container > .sidebar-info .sidebar-info__toggle-button {
   border-radius: 16px;
   padding: 24px;
   padding-bottom: 20px;
+  background: var(--metrics-bg, #7030A0);
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
